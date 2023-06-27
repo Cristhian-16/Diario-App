@@ -93,21 +93,21 @@ function App() {
               </div>
 
               <div className='container-2 grid grid-cols-5 mx-4 mt-10 gap-3 px-4'>
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
-                <img src='/public/messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
+                <img src='./messi.webp' alt='Messi' />
               </div>
             </form>
           ) : (
