@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Caprasimo', cursive;
+}
+
+h2 {
+  font-family: 'Belanosima', sans-serif;
+}
+
+/* Estilos para el contenedor con desplazamiento */
+.container {
+  /* Establecer altura máxima y habilitar el desplazamiento */
+  height: 700px;
+  overflow-y: scroll;
+}
+
+/* Estilos para la barra de desplazamiento */
+.container::-webkit-scrollbar {
+  width: 8px; /* Ancho de la barra de desplazamiento */
+}
+
+.container::-webkit-scrollbar-track {
+  background-color: #f3f4f6; /* Color del fondo de la barra */
+}
+
+.container::-webkit-scrollbar-thumb {
+  background-color: #081457; /* Color de la barra */
+}
+
+/* Estilos para el contenedor con desplazamiento */
+.container-2 {
+  /* Establecer altura máxima y habilitar el desplazamiento */
+  height: 450px;
+  overflow-y: scroll;
+}
+
+/* Estilos para la barra de desplazamiento */
+.container-2::-webkit-scrollbar {
+  width: 8px; /* Ancho de la barra de desplazamiento */
+}
+
+.container-2::-webkit-scrollbar-track {
+  background-color: #f3f4f6; /* Color del fondo de la barra */
+}
+
+.container-2::-webkit-scrollbar-thumb {
+  background-color: #081457; /* Color de la barra */
+}
